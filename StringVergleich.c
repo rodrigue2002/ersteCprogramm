@@ -6,4 +6,3 @@ int main (int argc, char *argv[]){
     printf("%d %s\n", res, (res == 0 ? "gleich" : "ungleich"));
     return 0;
 }
-
